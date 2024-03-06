@@ -9,5 +9,5 @@ function FazerCalculo(){
     let resultn = (result-tolf);
     alert("Fazendo cálculo ...");
     document.getElementById("resist").value = (result)
-    document.getElementById("tolera").value = (+resultn+"-"+resultp);
+    document.getElementById("tolera").value = (+resultn+" - "+resultp);
 }
