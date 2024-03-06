@@ -1,21 +1,48 @@
-
-#f1v0{
+#fv0{
     background-color: black;
     color: white;
 }
-#f1v1{
+#fv1{
     background-color: saddlebrown;
     color: white;
 }
-#f1v2{
+#fv2{
     background-color: red;
     color: white;
 }
-#f1v3{
+#fv3{
     background-color: orange;
     color: white;
 }
-#f1v4{
+#fv4{
     background-color: yellow;
+    color: black;
+}
+#fv5{
+    background-color: green;
+    color: white;
+}
+#fv6{
+    background-color: blue;
+    color: white;
+}
+#fv7{
+    background-color: violet;
+    color: black;
+}
+#fv8{
+    background-color: grey;
+    color: black;
+}
+#fv9{
+    background-color: white;
+    color: black;
+}
+#mp{
+    background-color: silver;
+    color: black;
+}
+#md{
+    background-color: gold;
     color: black;
 }
